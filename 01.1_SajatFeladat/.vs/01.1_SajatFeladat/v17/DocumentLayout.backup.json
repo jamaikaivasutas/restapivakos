@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\controllers\\isaaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\controllers\\isaaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\01.1_sajatfeladat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\01.1_sajatfeladat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\controllers\\isaaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\controllers\\isaaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\models\\characterupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\01.1_sajatfeladat\\01.1_sajatfeladat\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF65705-540A-4DDC-8D98-FF899D916C72}|01.1_SajatFeladat\\01.1_SajatFeladat.csproj|solutionrelative:01.1_sajatfeladat\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -44,27 +52,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GlobalImports.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\GlobalImports.cs",
-              "RelativeDocumentMoniker": "01.1_SajatFeladat\\GlobalImports.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\GlobalImports.cs",
-              "RelativeToolTip": "01.1_SajatFeladat\\GlobalImports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:18:39.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "IsaacController.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\Controllers\\IsaacController.cs",
               "RelativeDocumentMoniker": "01.1_SajatFeladat\\Controllers\\IsaacController.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\Controllers\\IsaacController.cs",
               "RelativeToolTip": "01.1_SajatFeladat\\Controllers\\IsaacController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T09:17:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01.1_SajatFeladat",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\01.1_SajatFeladat.csproj",
+              "RelativeDocumentMoniker": "01.1_SajatFeladat\\01.1_SajatFeladat.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\01.1_SajatFeladat.csproj",
+              "RelativeToolTip": "01.1_SajatFeladat\\01.1_SajatFeladat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T07:13:29.492Z",
               "EditorCaption": ""
             },
             {
@@ -75,10 +82,22 @@
               "RelativeDocumentMoniker": "01.1_SajatFeladat\\Program.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\Program.cs",
               "RelativeToolTip": "01.1_SajatFeladat\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T09:16:42.42Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "01.1_SajatFeladat\\GlobalImports.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\01.1_SajatFeladat\\01.1_SajatFeladat\\GlobalImports.cs",
+              "RelativeToolTip": "01.1_SajatFeladat\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:18:39.327Z"
             }
           ]
         }

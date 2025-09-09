@@ -1,6 +1,5 @@
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\appsettings.json
-C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\01.1_SajatFeladat.staticwebassets.endpoints.json
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\01.1_SajatFeladat.exe
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\01.1_SajatFeladat.deps.json
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\bin\Debug\net8.0\01.1_SajatFeladat.runtimeconfig.json
@@ -20,17 +19,15 @@ C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\D
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\scopedcss\bundle\01.1_SajatFeladat.styles.css
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets\msbuild.01.1_SajatFeladat.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets\msbuild.01.1_SajatFeladat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets\msbuild.build.01.1_SajatFeladat.props
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.01.1_SajatFeladat.props
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.01.1_SajatFeladat.props
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\01.1_Saj.97C03CA7.Up2Date
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\01.1_SajatFeladat.dll
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\refint\01.1_SajatFeladat.dll
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\01.1_SajatFeladat.pdb
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\01.1_SajatFeladat.genruntimeconfig.cache
 C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\ref\01.1_SajatFeladat.dll
+C:\Users\b1duzale\Desktop\restapivakos\01.1_SajatFeladat\01.1_SajatFeladat\obj\Debug\net8.0\01.1_SajatFeladat.sourcelink.json
