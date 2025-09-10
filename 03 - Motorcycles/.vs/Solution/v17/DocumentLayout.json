@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.validators\\motorcyclemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\motorcyclemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.validators\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.desktopapp\\viewmodels\\motorcyclelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\motorcyclelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\models\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\models\\typemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\typemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.services\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\03 - motorcycles\\solution.services\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:16:08.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrEditMotorcycleView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T07:06:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationResultToHasErrorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:30:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:19:24.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationResultToErrorMessageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:11:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotorcycleModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\MotorcycleModelValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
+              "RelativeToolTip": "Solution.Validators\\MotorcycleModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:56:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrEditMotorcycleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:48:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Validators\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\GlobalImports.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Validators\\GlobalImports.cs",
+              "RelativeToolTip": "Solution.Validators\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:57:29.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotorcycleListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:54:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ImageUploadResponse.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ImageUploadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:47:40.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManufacturerModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\ManufacturerModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ManufacturerModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\ManufacturerModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ManufacturerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:37:49.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotorcycleModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:37:32.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:35:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Core\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:35:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\TypeModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\TypeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:26:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GoogleDriveService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Services\\GoogleDriveService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GoogleDriveService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Services\\GoogleDriveService.cs",
+              "RelativeToolTip": "Solution.Services\\GoogleDriveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:23:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Services\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\03 - Motorcycles\\Solution.Services\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:23:01.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
