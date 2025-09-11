@@ -1,6 +1,4 @@
-﻿
-
-namespace Solution.DesktopApp;
+﻿namespace Solution.DesktopApp;
 
 public static class MauiProgram
 {

@@ -24,3 +24,7 @@ global using System.Globalization;
 global using Solution.Validators;
 global using Syncfusion.Maui.Core.Hosting;
 global using Syncfusion.Maui.Toolkit.Hosting;
+global using FluentValidation;
+global using Azure.Core;
+global using System.Runtime.CompilerServices;
+global using Windows.Foundation;

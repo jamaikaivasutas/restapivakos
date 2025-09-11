@@ -19,10 +19,18 @@ public class MotorcycleModelValidator : AbstractValidator<MotorcycleModel>
     public MotorcycleModelValidator()
     {
         RuleFor(x => x.Model).NotEmpty().WithMessage("Model is required.");
-        RuleFor(x => x.Cubic).GreaterThan(0).WithMessage("Cubic must be greater than 0.");
+
+        RuleFor(x => x.Cubic).NotNull().WithMessage("Cubic is required")
+                             .GreaterThan(0).WithMessage("Cubic must be greater than 0.");
+
         RuleFor(x => x.Manufacturer).NotNull().WithMessage("Manufacturer is required.");
+
         RuleFor(x => x.Type).NotNull().WithMessage("Type is required.");
-        RuleFor(x => x.NumberOfCylinders).GreaterThan(0).WithMessage("Number of cylinders must be greater than 0.");
-        RuleFor(x => x.ReleaseYear).InclusiveBetween(1900, DateTime.Now.Year).WithMessage($"Release year must be between 1900 and {DateTime.Now.Year}.");
+
+        RuleFor(x => x.NumberOfCylinders).NotNull().WithMessage("Number of cylinders is required.")
+                                         .GreaterThan(0).WithMessage("Number of cylinders must be greater than 0.");
+
+        RuleFor(x => x.ReleaseYear).NotNull().WithMessage("Release year is required.")
+                                   .InclusiveBetween(1900, DateTime.Now.Year).WithMessage($"Release year must be between 1900 and {DateTime.Now.Year}.");
     }
 }

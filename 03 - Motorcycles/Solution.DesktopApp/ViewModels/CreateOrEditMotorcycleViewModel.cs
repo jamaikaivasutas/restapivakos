@@ -1,6 +1,4 @@
-﻿using Azure.Core;
-using System.Runtime.CompilerServices;
-using Windows.Foundation;
+﻿
 
 
 namespace Solution.DesktopApp.ViewModels;
@@ -170,8 +168,8 @@ public partial class CreateOrEditMotorcycleViewModel(
 
         await Application.Current.MainPage.DisplayAlert(title, message, "OK");
 
-        this.ImageId = imageUploadResult.IsError ? null : imageUploadResult.Id;
-        this.WebContentLink = imageUploadResult.IsError ? null : imageUploadResult.WebContentLink;
+        this.ImageId = imageUploadResult.IsError ? null : imageUploadResult.Value.Id;
+        this.WebContentLink = imageUploadResult.IsError ? null : imageUploadResult.Value.WebContentLink;
     }
 
     private async Task LoadManufacturersAsync()
