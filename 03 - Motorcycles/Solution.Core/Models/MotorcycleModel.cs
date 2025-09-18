@@ -3,30 +3,39 @@
 public partial class MotorcycleModel : ObservableObject 
 {
     [ObservableProperty]
+    [JsonPropertyName("id")]
     private string id;
 
     [ObservableProperty]
+    [JsonPropertyName("imageId")]
     private string imageId;
 
     [ObservableProperty]
+    [JsonPropertyName("webContentLink")]
     private string webContentLink;
 
     [ObservableProperty]
+    [JsonPropertyName("manufacturer")]
     private ManufacturerModel manufacturer;
 
     [ObservableProperty]
+    [JsonPropertyName("type")]
     private TypeModel type;
 
     [ObservableProperty]
+    [JsonPropertyName("model")]
     private string model;
 
     [ObservableProperty]
+    [JsonPropertyName("cubic")]
     private int? cubic;
 
     [ObservableProperty]
+    [JsonPropertyName("releaseYear")]
     private int? releaseYear;
 
     [ObservableProperty]
+    [JsonPropertyName("numberOfCylinders")]
     private int? numberOfCylinders;
 
     public MotorcycleModel()

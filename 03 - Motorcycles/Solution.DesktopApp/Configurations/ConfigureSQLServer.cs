@@ -2,10 +2,18 @@
 
 public static class ConfigureSQLServer
 {
-	public static MauiAppBuilder UseMsSqlServer(this MauiAppBuilder builder)
-	{	
-		builder.Services.AddDbContext<AppDbContext>();
+    public static MauiAppBuilder UseMsSqlServer(this MauiAppBuilder builder)
+    {
+        var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-		return builder;
-	}
+        builder.Services.AddDbContext<AppDbContext>(options => options.UseLazyLoadingProxies()
+                                                                      .UseSqlServer(connectionString, options =>
+                                                                      {
+                                                                          options.MigrationsAssembly(Solution.Database.AssemblyReference.Assembly);
+                                                                          options.EnableRetryOnFailure();
+                                                                          options.CommandTimeout(300);
+                                                                      }));
+
+        return builder;
+    }
 }
