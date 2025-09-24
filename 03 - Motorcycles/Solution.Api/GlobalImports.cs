@@ -12,4 +12,3 @@ global using Solution.Core.Models;
 global using System.ComponentModel.DataAnnotations;
 global using FluentValidation;
 global using FluentValidation.AspNetCore;
-global using Solution.Validators.Interceptors;

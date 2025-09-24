@@ -2,6 +2,7 @@
 
 namespace Solution.Api.Controllers;
 
+[ApiController]
 public class BaseController : ControllerBase
 {
     protected IActionResult Problem(ICollection<Error> errors)

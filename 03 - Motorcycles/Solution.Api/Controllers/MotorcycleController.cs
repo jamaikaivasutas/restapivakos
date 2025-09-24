@@ -16,6 +16,17 @@ public class MotorcycleController(IMotorcycleService motorcycleService) : BaseCo
     }
 
     [HttpGet]
+    [Route("api/motorcycle/page/{page}")]
+    public async Task<IActionResult> GetPageAsync([FromRoute][Required] int page = 0)
+    {
+        var result = await motorcycleService.GetPagedAsync(page);
+        return result.Match(
+            result => Ok(result),
+            errors => Problem(errors)
+            );
+    }
+
+    [HttpGet]
     [Route("api/motorcycle/{id}")]
     public async Task<IActionResult> GetByIdAsync([FromRoute][Required] string id)
     {
