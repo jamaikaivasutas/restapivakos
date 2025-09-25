@@ -7,13 +7,19 @@ public static class ConfigureDI
 		builder.Services.AddTransient<MainViewModel>();
         builder.Services.AddTransient<MotorcycleListViewModel>();
         builder.Services.AddTransient<CreateOrEditMotorcycleViewModel>();
+        builder.Services.AddTransient<CreateManufacturerViewModel>();
+        builder.Services.AddTransient<CreateTypeViewModel>();
 
         builder.Services.AddTransient<MainView>();
         builder.Services.AddTransient<MotorcycleListView>();
         builder.Services.AddTransient<CreateOrEditMotorcycleView>();
+        builder.Services.AddTransient<CreateManufacturerView>();
+        builder.Services.AddTransient<CreateTypeView>();
 
         builder.Services.AddScoped<IGoogleDriveService, GoogleDriveService> ();
         builder.Services.AddTransient<IMotorcycleService, MotorcycleService>();
+        builder.Services.AddTransient<IManufacturerService, ManufacturerService>();
+        builder.Services.AddTransient<ITypeService, TypeService>();
 
         return builder;
 	}

@@ -36,7 +36,25 @@
             </MenuFlyoutItem.IconImageSource>
           </MenuFlyoutItem>
         </MenuBarItem>
-      </Shell.MenuBarItems>
+
+        <MenuBarItem Text="Manufacturer">
+            <MenuFlyoutItem Text="Add New" Command="{Binding AddNewManufacturerCommand}" >
+                <MenuFlyoutItem.IconImageSource>
+                    <FontImageSource Glyph="&#x25B6;" FontFamily="Arial" Color="Black"/>
+                </MenuFlyoutItem.IconImageSource>
+            </MenuFlyoutItem>
+        </MenuBarItem>
+
+        <MenuBarItem Text="Type">
+            <MenuFlyoutItem Text="Add New" Command="{Binding AddNewTypeCommand}" >
+                <MenuFlyoutItem.IconImageSource>
+                    <FontImageSource Glyph="&#x25B6;" FontFamily="Arial" Color="Black"/>
+                </MenuFlyoutItem.IconImageSource>
+            </MenuFlyoutItem>
+        </MenuBarItem>
+    </Shell.MenuBarItems>
+    
+    
 
     <ShellContent ContentTemplate="{DataTemplate local:MainView}"
                   Route="MainView" />
