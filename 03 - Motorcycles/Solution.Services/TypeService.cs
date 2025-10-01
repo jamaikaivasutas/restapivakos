@@ -44,8 +44,7 @@ public class TypeService(AppDbContext dbContext) : ITypeService
     {
         var result = await dbContext.Types.AsNoTracking()
                                                 .Where(x => x.Id == model.Id)
-                                                .ExecuteUpdateAsync(x => x.SetProperty(p => p.Id, model.Id)
-                                                                          .SetProperty(p => p.Name, model.Name));
+                                                .ExecuteUpdateAsync(x => x.SetProperty(p => p.Name, model.Name));
 
         return result > 0 ? Result.Success : Error.NotFound();
     }
