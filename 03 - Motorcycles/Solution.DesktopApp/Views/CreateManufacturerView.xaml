@@ -7,10 +7,12 @@
              x:Class="Solution.DesktopApp.Views.CreateManufacturerView"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              xmlns:validator="clr-namespace:Solution.Validators;assembly=Solution.Validators"
+             xmlns:behaviors="clr-namespace:Solution.DesktopApp.Behaviors"
+             x:DataType="viewModels:CreateTypeViewModel"
              Title="CreateManufacturerView">
     <VerticalStackLayout>
         <Label 
-            Text="Add Manufacturer"
+            Text="{Binding Title}"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 

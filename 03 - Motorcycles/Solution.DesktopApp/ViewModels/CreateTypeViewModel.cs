@@ -1,4 +1,4 @@
-﻿using Solution.Services;
+﻿
 
 namespace Solution.DesktopApp.ViewModels;
 
@@ -6,7 +6,7 @@ public partial class CreateTypeViewModel(
     AppDbContext dbContext,
     ITypeService typeService) : TypeModel, IQueryAttributable
 {
-    public IAsyncRelayCommand SubmitCommand => new AsyncRelayCommand(OnSaveAsync);
+    public IAsyncRelayCommand SubmitCommand => new AsyncRelayCommand(OnSubmitAsync);
     public ICommand ValidateCommand => new Command<string>(OnValidateAsync);
     private TypeModelValidator validator => new TypeModelValidator();
     [ObservableProperty]
@@ -18,7 +18,7 @@ public partial class CreateTypeViewModel(
     private delegate Task ButtonActionDelagate();
     private ButtonActionDelagate asyncButtonAction;
 
-    public async void ApplyQueryAttributes(IDictionary<string, object> query)
+    public void ApplyQueryAttributes(IDictionary<string, object> query)
     {
 
         bool hasValue = query.TryGetValue("Type", out object result);
@@ -32,9 +32,9 @@ public partial class CreateTypeViewModel(
 
         TypeModel type = result as TypeModel;
 
-        this.Id = type.Id;
         this.Name = type.Name;
-       
+        this.Id = type.Id;
+        
 
         asyncButtonAction = OnUpdateAsync;
         Title = "Update type";
@@ -79,6 +79,7 @@ public partial class CreateTypeViewModel(
         await Application.Current.MainPage.DisplayAlert(title, message, "OK");
     }
 
+    private async Task OnSubmitAsync() => await asyncButtonAction();
     private async Task OnUpdateAsync()
     {
         this.ValidationResult = await validator.ValidateAsync(this);

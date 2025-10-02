@@ -1,14 +1,44 @@
-﻿namespace Solution.DesktopApp.ViewModels;
+﻿using Solution.Services;
+
+namespace Solution.DesktopApp.ViewModels;
 
 public partial class CreateManufacturerViewModel(
     AppDbContext dbContext,
-    IManufacturerService manufacturerService) : ManufacturerModel
+    IManufacturerService manufacturerService) : ManufacturerModel, IQueryAttributable
 {
-    public IAsyncRelayCommand SubmitCommand => new AsyncRelayCommand(OnSaveAsync);
+    public IAsyncRelayCommand SubmitCommand => new AsyncRelayCommand(OnSubmitAsync);
     public ICommand ValidateCommand => new Command<string>(OnValidateAsync);
     private ManufacturerModelValidator validator => new ManufacturerModelValidator();
     [ObservableProperty]
     private ValidationResult validationResult = new ValidationResult();
+
+    [ObservableProperty]
+    private string title;
+
+    private delegate Task ButtonActionDelagate();
+    private ButtonActionDelagate asyncButtonAction;
+
+    public void ApplyQueryAttributes(IDictionary<string, object> query)
+    {
+
+        bool hasValue = query.TryGetValue("Manufacturer", out object result);
+
+        if (!hasValue)
+        {
+            asyncButtonAction = OnSaveAsync;
+            Title = "Add new manufacturer";
+            return;
+        }
+
+        ManufacturerModel manufacturer = result as ManufacturerModel;
+
+        this.Name = manufacturer.Name;
+        this.Id = manufacturer.Id;
+
+
+        asyncButtonAction = OnUpdateAsync;
+        Title = "Update manufacturer";
+    }
     private async void OnValidateAsync(string propertyName)
     {
         var result = await validator.ValidateAsync(this, options => options.IncludeProperties(propertyName));
@@ -24,6 +54,8 @@ public partial class CreateManufacturerViewModel(
     {
         this.Name = null;
     }
+
+    private async Task OnSubmitAsync() => await asyncButtonAction();
 
     private async Task OnSaveAsync()
     {
@@ -43,6 +75,23 @@ public partial class CreateManufacturerViewModel(
         {
             ClearForm();
         }
+
+        await Application.Current.MainPage.DisplayAlert(title, message, "OK");
+    }
+
+    private async Task OnUpdateAsync()
+    {
+        this.ValidationResult = await validator.ValidateAsync(this);
+
+        if (!ValidationResult.IsValid)
+        {
+            return;
+        }
+
+        var result = await manufacturerService.UpdateAsync(this);
+
+        var message = result.IsError ? result.FirstError.Description : "Manufacturer updated.";
+        var title = result.IsError ? "Error" : "Information";
 
         await Application.Current.MainPage.DisplayAlert(title, message, "OK");
     }
