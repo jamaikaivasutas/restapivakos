@@ -25,6 +25,10 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Book.cs",
@@ -39,6 +43,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Program.cs",
+              "RelativeDocumentMoniker": "Konyvek\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Program.cs",
+              "RelativeToolTip": "Konyvek\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:51:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "adatok.txt",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\adatok.txt",
@@ -48,19 +65,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-10-02T06:52:18.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Program.cs",
-              "RelativeDocumentMoniker": "Konyvek\\Program.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Program.cs",
-              "RelativeToolTip": "Konyvek\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:51:02.179Z",
               "EditorCaption": ""
             }
           ]

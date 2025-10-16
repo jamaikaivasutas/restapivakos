@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF7);
+var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF8);
 
 var books = new List<Book>(); 
 
@@ -21,7 +21,7 @@ foreach(var line in fileData)
         PageNumber = int.Parse(data[9]),
         Honorarium = int.Parse(data[10])
     });
-
+}
     //Írjuk ki a képernyőre az össz adatot
     Console.WriteLine($"feladat 1: ");
     foreach(var book in books)
@@ -39,7 +39,7 @@ foreach(var line in fileData)
     await File.WriteAllLinesAsync("1900.txt", booksPublishedIn20thCentury, Encoding.UTF8);
 
     //Rendezzük az adatokat a könyvek oldalainak száma szerint csökkenő sorrendbe és a sorbarakott.txt állományba mentsük el.
-    Console.WriteLine(""); ;
-}
+    Console.WriteLine(""); 
+
 
 Console.ReadKey();
