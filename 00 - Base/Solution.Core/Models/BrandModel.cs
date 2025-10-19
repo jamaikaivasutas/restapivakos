@@ -29,4 +29,26 @@ public partial class BrandModel : ObservableObject
         Id = entity.Id;
         Name = entity.Name;
     }
+
+    public BrandEntity ToEntity()
+    {
+        return new BrandEntity
+        {
+            Id = Id,
+            Name = Name
+        };
+    }
+
+    public void ToEntity(BrandEntity entity)
+    {
+        entity.Name = Name;
+        entity.Id = Id;
+    }
+
+    public override bool Equals(object? obj)
+    {
+        return obj is BrandModel brand &&
+               Id == brand.Id &&
+               Name == brand.Name;
+    }
 }
