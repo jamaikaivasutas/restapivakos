@@ -23,3 +23,17 @@
 06 - Roplabda/Roplabda/Roplabda/obj
 13 - Snooker/Snooker/Snooker/obj
 04 - Konyvek/Konyvek/Konyvek/obj
+00 - Base/Solution.Api/obj
+00 - Base/Solution.Core/bin
+00 - Base/Solution.Database/bin
+00 - Base/Solution.DesktopApp/bin
+00 - Base/Solution.Core/obj
+00 - Base/Solution.Database/obj
+00 - Base/Solution.DesktopApp/obj
+00 - Base/Solution.PdfGenerator/bin
+00 - Base/Solution.Services/bin
+00 - Base/Solution.Services/obj
+00 - Base/Solution.PdfGenerator/obj
+00 - Base/Solution.ValidationLibrary/bin
+00 - Base/Solution.Validators/obj
+00 - Base/Solution.ValidationLibrary/obj

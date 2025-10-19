@@ -1,6 +1,4 @@
-﻿
-
-namespace Solution.Validators;
+﻿namespace Solution.Validators;
 
 public abstract class BaseValidator<T>(IHttpContextAccessor httpContextAccessor) : AbstractValidator<T> where T : class
 {
@@ -8,3 +6,4 @@ public abstract class BaseValidator<T>(IHttpContextAccessor httpContextAccessor)
 
     protected bool IsPutMethod => requestMethod is not null && HttpMethods.IsPut(requestMethod);
 }
+    
