@@ -12,3 +12,6 @@ global using CommunityToolkit.Maui.Core;
 global using System.Runtime.InteropServices;
 global using Syncfusion.Maui.Core.Hosting;
 global using Syncfusion.Maui.Toolkit.Hosting;
+global using Solution.Core.Interfaces;
+global using Solution.DesktopApp.Views;
+global using Solution.Services;
