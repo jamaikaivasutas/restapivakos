@@ -4,7 +4,9 @@ public class ChocolateModelValidator : BaseValidator<ChocolateModel>
 {
     public static string FlavorProperty => nameof(ChocolateModel.Flavor);
     public static string PriceProperty => nameof(ChocolateModel.Price);
-    public static string BrandProperty => nameof(ChocolateModel.Brand); 
+    public static string BrandProperty => nameof(ChocolateModel.Brand);
+
+    public static string GlobalProperty => "Global";
 
     public ChocolateModelValidator(IHttpContextAccessor httpContextAccessor) : base(httpContextAccessor)
     {

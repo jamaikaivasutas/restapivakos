@@ -108,6 +108,7 @@
 	  <ProjectReference Include="..\Solution.Core\Solution.Core.csproj" />
 	  <ProjectReference Include="..\Solution.Database\Solution.Database.csproj" />
 	  <ProjectReference Include="..\Solution.Services\Solution.Services.csproj" />
+	  <ProjectReference Include="..\Solution.Validators\Solution.Validators.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -117,6 +118,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Components\BrandListComponent.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Components\ChocolateListComponent.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\CreateOrEditBrandView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

@@ -1,12 +1,12 @@
 ﻿namespace Solution.DesktopApp;
 
-public partial class MainPage : ContentPage
+public partial class MainView : ContentPage
 {
     public MainPageViewModel ViewModel => this.BindingContext as MainPageViewModel;
 
-    public string Name => nameof(MainPage);
+    public static string Name => nameof(MainView);
 
-    public MainPage(MainPageViewModel viewModel)
+    public MainView(MainPageViewModel viewModel)
     {
         this.BindingContext = viewModel;
 

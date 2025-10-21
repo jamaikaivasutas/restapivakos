@@ -3,8 +3,200 @@
   "WorkspaceRootPath": "E:\\_vasvar\\restapivakos\\00 - Base\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\components\\chocolatelistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\components\\chocolatelistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listchocolateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listchocolateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listbrandview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listbrandview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\components\\brandlistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\components\\brandlistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\components\\brandlistcomponent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\components\\brandlistcomponent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\components\\chocolatelistcomponent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\components\\chocolatelistcomponent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\connectionstring.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\connectionstring.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\connectionstring.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\connectionstring.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\createoreditchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditbrandview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditbrandview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditchocolateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditchocolateview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\createoreditbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\behaviors\\entryintegerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\behaviors\\entryintegerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\solution.desktopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\listchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\listchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\listbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\listbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\chocolatemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\chocolatemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.core\\models\\chocolatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\chocolatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\converters\\validationresulttoerrormessagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttoerrormessagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\brandmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\brandmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{388CD056-DAB7-9B4D-CA69-B6D063CEFCFA}|Solution.Api\\Solution.Api.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.api\\configurations\\loadappsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,14 +243,6 @@
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\solution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,56 +255,8 @@
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listchocolateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\listbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\listbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\views\\createoreditbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditbrandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\listbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\listbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\listchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\listchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\createoreditbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditbrandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\createoreditchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditchocolateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.core\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\chocolateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\entities\\chocolateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +265,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -159,14 +291,6 @@
       "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\chocolatemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\chocolatemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\brandmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\brandmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -175,48 +299,12 @@
       "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.validators\\solution.validators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{339C2D04-2D42-415E-83C5-C138041B29D1}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\solution.validators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.core\\models\\chocolatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\chocolatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\connectionstring.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\connectionstring.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.database\\connectionstring.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\connectionstring.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|e:\\_vasvar\\restapivakos\\00 - base\\solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -234,411 +322,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoadAppSettingsConfiguration.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:00:24.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FluentValidationConfiguration.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:00:02.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:45:10.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DiConfigurations.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:59:30.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseConfiguration.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:59:13.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BrandController.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:57:17.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:52:11.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChocolateController.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\ChocolateController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ChocolateController.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\ChocolateController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\ChocolateController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:52:10.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GlobalImports.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\GlobalImports.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\GlobalImports.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\GlobalImports.cs",
-              "RelativeToolTip": "Solution.Api\\GlobalImports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:50:50.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HttpContextItemKeys.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:51:34.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Program.cs",
-              "RelativeToolTip": "Solution.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:50:44.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConfigureFonts.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:42:54.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ConfigureSQLServer.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:19:39.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Solution.Core.csproj",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Solution.Core.csproj",
-              "RelativeDocumentMoniker": "Solution.Core\\Solution.Core.csproj",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Solution.Core.csproj",
-              "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:08:08.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ConfigureAppVariables.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:41:19.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConfigurationOfAppSettingsMapping.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:41:09.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ConfigureDI.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:32:13.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateOrEditChocolateView.xaml",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-20T16:34:31.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "ListChocolateView.xaml",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListChocolateView.xaml",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ListChocolateView.xaml",
               "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListChocolateView.xaml",
               "RelativeToolTip": "Solution.DesktopApp\\Views\\ListChocolateView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-20T16:35:14.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ChocolateService.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\ChocolateService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\ChocolateService.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\ChocolateService.cs",
+              "RelativeToolTip": "Solution.Services\\ChocolateService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswD0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:16:32.608Z",
+              "WhenOpened": "2025-10-19T19:36:54.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ChocolateListComponent.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\ChocolateListComponent.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ChocolateListComponent.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\ChocolateListComponent.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\ChocolateListComponent.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-20T16:36:18.946Z",
+              "WhenOpened": "2025-10-21T21:48:27.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
+              "Title": "ListChocolateView.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListChocolateView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ListChocolateView.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListChocolateView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\ListChocolateView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:08:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBrandView.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListBrandView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ListBrandView.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListBrandView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\ListBrandView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:08:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListBrandView.xaml",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListBrandView.xaml",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ListBrandView.xaml",
               "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\ListBrandView.xaml",
               "RelativeToolTip": "Solution.DesktopApp\\Views\\ListBrandView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-20T16:35:23.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateOrEditBrandView.xaml",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-20T16:35:00.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ListBrandViewModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:33:25.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ListChocolateViewModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:33:16.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateOrEditBrandViewModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:32:56.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateOrEditChocolateViewModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:32:46.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 6,
               "Title": "BrandService.cs",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\BrandService.cs",
               "RelativeDocumentMoniker": "Solution.Services\\BrandService.cs",
               "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\BrandService.cs",
               "RelativeToolTip": "Solution.Services\\BrandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T20:05:14.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ChocolateService.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\ChocolateService.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\ChocolateService.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\ChocolateService.cs",
-              "RelativeToolTip": "Solution.Services\\ChocolateService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BrandListComponent.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\BrandListComponent.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\BrandListComponent.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\BrandListComponent.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\BrandListComponent.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:36:54.342Z"
+              "WhenOpened": "2025-10-21T21:55:10.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "NavigationStackExtensions.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:48:50.094Z"
+              "WhenOpened": "2025-10-21T19:19:51.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BrandModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\BrandModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\BrandModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\BrandModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\BrandModel.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAASwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:40:09.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Solution.Database\\AppDbContext.cs",
@@ -646,153 +451,424 @@
               "RelativeToolTip": "Solution.Database\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:22:32.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ChocolateEntity.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Entities\\ChocolateEntity.cs",
-              "RelativeDocumentMoniker": "Solution.Database\\Entities\\ChocolateEntity.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Entities\\ChocolateEntity.cs",
-              "RelativeToolTip": "Solution.Database\\Entities\\ChocolateEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:27:07.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.Database\\GlobalUsings.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.Database\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:11:42.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Solution.Database.csproj",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Solution.Database.csproj",
-              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Solution.Database.csproj",
-              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:07:21.052Z",
+              "WhenOpened": "2025-10-19T14:22:32.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IChocolateService.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IChocolateService.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IChocolateService.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IChocolateService.cs",
-              "RelativeToolTip": "Solution.Core\\Interfaces\\IChocolateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BrandListComponent.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\BrandListComponent.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\BrandListComponent.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\BrandListComponent.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\BrandListComponent.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T21:55:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChocolateListComponent.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\ChocolateListComponent.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ChocolateListComponent.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Components\\ChocolateListComponent.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\ChocolateListComponent.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:38:43.325Z"
+              "WhenOpened": "2025-10-21T21:50:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appSettings.Development.json",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\appSettings.Development.json",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\appSettings.Development.json",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\appSettings.Development.json",
+              "RelativeToolTip": "Solution.DesktopApp\\appSettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T21:44:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appSettings.Production.json",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\appSettings.Production.json",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\appSettings.Production.json",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\appSettings.Production.json",
+              "RelativeToolTip": "Solution.DesktopApp\\appSettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T21:44:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "connectionString.Production.json",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Production.json",
+              "RelativeDocumentMoniker": "Solution.Database\\connectionString.Production.json",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Production.json",
+              "RelativeToolTip": "Solution.Database\\connectionString.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T14:11:45.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "connectionString.Development.json",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Development.json",
+              "RelativeDocumentMoniker": "Solution.Database\\connectionString.Development.json",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Development.json",
+              "RelativeToolTip": "Solution.Database\\connectionString.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T14:11:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\App.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\App.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T19:21:20.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateOrEditChocolateView.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:07:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateOrEditBrandView.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T16:35:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrEditChocolateViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditChocolateViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:32:46.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T21:27:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateOrEditBrandView.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditBrandView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:08:17.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateOrEditBrandViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditBrandViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:32:56.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T16:36:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:51:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShellViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:14:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateOrEditChocolateView.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditChocolateView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T16:34:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:45:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:02:43.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:15:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\App.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:02:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T19:13:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EntryIntegerBehavior.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:27:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ExceptionHandler.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ExceptionHandler.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:18:46.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Solution.DesktopApp",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T19:59:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConfigureFonts.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:42:54.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "IBrandService.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IBrandService.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IBrandService.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IBrandService.cs",
-              "RelativeToolTip": "Solution.Core\\Interfaces\\IBrandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "ConfigureSQLServer.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:43:25.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BrandModelValidator.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BrandModelValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\BrandModelValidator.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BrandModelValidator.cs",
-              "RelativeToolTip": "Solution.Validators\\BrandModelValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:10:06.537Z"
+              "WhenOpened": "2025-10-19T14:19:39.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\GlobalUsings.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.Core\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Title": "Solution.DesktopApp.csproj",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T13:57:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:46:08.983Z"
+              "WhenOpened": "2025-10-21T19:32:55.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "ListChocolateViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ListChocolateViewModel.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:33:16.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ListBrandViewModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ListBrandViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:33:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ChocolateModelValidator.cs",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\ChocolateModelValidator.cs",
               "RelativeDocumentMoniker": "Solution.Validators\\ChocolateModelValidator.cs",
               "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\ChocolateModelValidator.cs",
               "RelativeToolTip": "Solution.Validators\\ChocolateModelValidator.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T15:04:37.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "BaseValidator.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BaseValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\BaseValidator.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BaseValidator.cs",
-              "RelativeToolTip": "Solution.Validators\\BaseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:00:07.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\GlobalUsings.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.Validators\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:59:08.475Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\AssemblyReference.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.Validators\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ChocolateModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\ChocolateModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ChocolateModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\ChocolateModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ChocolateModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:58:49.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Solution.Validators.csproj",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\Solution.Validators.csproj",
-              "RelativeDocumentMoniker": "Solution.Validators\\Solution.Validators.csproj",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\Solution.Validators.csproj",
-              "RelativeToolTip": "Solution.Validators\\Solution.Validators.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:58:04.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T14:36:15.321Z"
             },
             {
               "$type": "Document",
@@ -808,31 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "PaginationModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:53:42.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ChocolateModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\ChocolateModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\ChocolateModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\ChocolateModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\ChocolateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:36:15.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "BrandEntity.cs",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Entities\\BrandEntity.cs",
               "RelativeDocumentMoniker": "Solution.Database\\Entities\\BrandEntity.cs",
@@ -844,55 +896,379 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ExceptionHandler.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ExceptionHandler.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ExceptionHandler.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ExceptionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 45,
+              "Title": "ValidationResultToHasErrorConverter.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:18:46.414Z"
+              "WhenOpened": "2025-10-21T16:53:14.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ValidationResultToErrorMessagesConverter.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessagesConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:52:42.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:16:32.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Title": "BrandModelValidator.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BrandModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\BrandModelValidator.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BrandModelValidator.cs",
+              "RelativeToolTip": "Solution.Validators\\BrandModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:15:14.758Z"
+              "WhenOpened": "2025-10-19T15:10:06.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "connectionString.Production.json",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Production.json",
-              "RelativeDocumentMoniker": "Solution.Database\\connectionString.Production.json",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Production.json",
-              "RelativeToolTip": "Solution.Database\\connectionString.Production.json",
+              "DocumentIndex": 50,
+              "Title": "FluentValidationConfiguration.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T14:11:45.391Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:00:02.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoadAppSettingsConfiguration.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:00:24.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
-              "Title": "connectionString.Development.json",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Development.json",
-              "RelativeDocumentMoniker": "Solution.Database\\connectionString.Development.json",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\connectionString.Development.json",
-              "RelativeToolTip": "Solution.Database\\connectionString.Development.json",
+              "Title": "DiConfigurations.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:59:30.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T14:11:44.336Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:59:13.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BrandController.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:57:17.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:52:11.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 54,
+              "Title": "ChocolateController.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\ChocolateController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ChocolateController.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Controllers\\ChocolateController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\ChocolateController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:52:10.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\GlobalImports.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\GlobalImports.cs",
+              "RelativeToolTip": "Solution.Api\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:50:50.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HttpContextItemKeys.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:51:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Api\\Program.cs",
+              "RelativeToolTip": "Solution.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:50:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Solution.Core.csproj",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Solution.Core.csproj",
+              "RelativeDocumentMoniker": "Solution.Core\\Solution.Core.csproj",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Solution.Core.csproj",
+              "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:08:08.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ConfigureAppVariables.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:41:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ConfigurationOfAppSettingsMapping.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:41:09.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ConfigureDI.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:32:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:48:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\BrandModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAASwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:40:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ChocolateEntity.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Entities\\ChocolateEntity.cs",
+              "RelativeDocumentMoniker": "Solution.Database\\Entities\\ChocolateEntity.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Entities\\ChocolateEntity.cs",
+              "RelativeToolTip": "Solution.Database\\Entities\\ChocolateEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:27:07.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Database\\GlobalUsings.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Database\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:11:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Solution.Database.csproj",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Solution.Database.csproj",
+              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Database\\Solution.Database.csproj",
+              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:07:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IChocolateService.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IChocolateService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IChocolateService.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IChocolateService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IChocolateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:38:43.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IBrandService.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:43:25.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\GlobalUsings.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Core\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:46:08.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BaseValidator.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BaseValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\BaseValidator.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\BaseValidator.cs",
+              "RelativeToolTip": "Solution.Validators\\BaseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:00:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\GlobalUsings.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Validators\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:59:08.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\AssemblyReference.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.Validators\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:58:49.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Solution.Validators.csproj",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\Solution.Validators.csproj",
+              "RelativeDocumentMoniker": "Solution.Validators\\Solution.Validators.csproj",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Validators\\Solution.Validators.csproj",
+              "RelativeToolTip": "Solution.Validators\\Solution.Validators.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:58:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
+              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:53:42.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
               "Title": "Solution.Services.csproj",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.Services\\Solution.Services.csproj",
               "RelativeDocumentMoniker": "Solution.Services\\Solution.Services.csproj",
@@ -900,24 +1276,11 @@
               "RelativeToolTip": "Solution.Services\\Solution.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:09:28.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T14:09:28.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:51:34.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 77,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Platforms\\Android\\MainActivity.cs",
@@ -926,19 +1289,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T14:00:00.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Solution.DesktopApp.csproj",
-              "DocumentMoniker": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ToolTip": "E:\\_vasvar\\restapivakos\\00 - Base\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T13:57:17.338Z",
-              "EditorCaption": ""
             }
           ]
         }

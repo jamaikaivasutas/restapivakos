@@ -1,6 +1,6 @@
 ﻿namespace Solution.DataBase;
 
-public class AppDbContext() : DbContext
+public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
     public DbSet<BrandEntity> Brands { get; set; }
     public DbSet<ChocolateEntity> Chocolates { get; set; }

@@ -1,9 +1,13 @@
 namespace Solution.DesktopApp.Views;
 
-public partial class CreateOrEditChocolateView : ContentView
+public partial class CreateOrEditChocolateView : ContentPage
 {
-	public CreateOrEditChocolateView()
+	public CreateOrEditChocolateViewModel ViewModel => this.BindingContext as CreateOrEditChocolateViewModel;
+	public static string? Name => nameof(CreateOrEditChocolateView);
+	public CreateOrEditChocolateView(CreateOrEditChocolateViewModel viewModel)
 	{
-		InitializeComponent();
+		this.BindingContext = viewModel;
+
+        InitializeComponent();
 	}
 }

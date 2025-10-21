@@ -1,9 +1,14 @@
 namespace Solution.DesktopApp.Views;
 
-public partial class ListChocolateView : ContentView
+public partial class ListChocolateView : ContentPage
 {
-	public ListChocolateView()
+	public ListChocolateViewModel ViewModel => this.BindingContext as ListChocolateViewModel;
+	public static string Name => nameof(ListChocolateView);
+
+    public ListChocolateView(ListChocolateViewModel viewModel)
 	{
+		this.BindingContext = viewModel;
+
 		InitializeComponent();
 	}
 }
