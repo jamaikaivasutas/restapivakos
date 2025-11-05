@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,10 +32,9 @@
               "RelativeDocumentMoniker": "Konyvek\\Book.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Book.cs",
               "RelativeToolTip": "Konyvek\\Book.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:54:52.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T06:54:52.152Z"
             },
             {
               "$type": "Document",
@@ -49,7 +44,7 @@
               "RelativeDocumentMoniker": "Konyvek\\Program.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Konyvek\\Konyvek\\Konyvek\\Program.cs",
               "RelativeToolTip": "Konyvek\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T06:51:02.179Z",
               "EditorCaption": ""
@@ -64,8 +59,7 @@
               "RelativeToolTip": "Konyvek\\adatok.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-02T06:52:18.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T06:52:18.12Z"
             }
           ]
         }

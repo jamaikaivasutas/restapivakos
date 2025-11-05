@@ -39,7 +39,21 @@ foreach(var line in fileData)
     await File.WriteAllLinesAsync("1900.txt", booksPublishedIn20thCentury, Encoding.UTF8);
 
     //Rendezzük az adatokat a könyvek oldalainak száma szerint csökkenő sorrendbe és a sorbarakott.txt állományba mentsük el.
-    Console.WriteLine(""); 
+    var sortedBooksByPageNumber = books.OrderByDescending(x => x.PageNumber)
+                                       .Select(x => x.ToFullString());
+
+   await File.WriteAllLinesAsync("sorbarakott.txt", sortedBooksByPageNumber, Encoding.UTF8);
+
+
+/*„kategoriak.txt” állományba mentse el a könyveket téma szerint. Például:
+    Thriller:
+        -könnyv1
+        - könnyv2*/
+
+    var categories = books.GroupBy(x => x.Theme)
+                      .Select(g => $"{g.Key}:\n" + string.Join("\n", g.Select(b => $"- {b.Title}")));
+
+   await File.WriteAllLinesAsync("kategoriak.txt", categories, Encoding.UTF8);
 
 
 Console.ReadKey();

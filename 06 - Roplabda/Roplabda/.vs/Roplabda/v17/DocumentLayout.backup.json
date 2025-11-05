@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\06 - roplabda\\roplabda\\roplabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|solutionrelative:roplabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\06 - roplabda\\roplabda\\roplabda\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|solutionrelative:roplabda\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\06 - roplabda\\roplabda\\roplabda\\adatok.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|solutionrelative:roplabda\\adatok.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\06 - roplabda\\roplabda\\roplabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF43302-5D4A-4251-BFDA-B3C6C6A109FF}|Roplabda\\Roplabda.csproj|solutionrelative:roplabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Volleyball.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\Roplabda\\Volleyball.cs",
               "RelativeDocumentMoniker": "Roplabda\\Volleyball.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\Roplabda\\Volleyball.cs",
               "RelativeToolTip": "Roplabda\\Volleyball.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T06:39:39.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "adatok.txt",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\Roplabda\\adatok.txt",
               "RelativeDocumentMoniker": "Roplabda\\adatok.txt",
@@ -56,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\Roplabda\\Program.cs",
               "RelativeDocumentMoniker": "Roplabda\\Program.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\06 - Roplabda\\Roplabda\\Roplabda\\Program.cs",
               "RelativeToolTip": "Roplabda\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T05:40:18.101Z",
               "EditorCaption": ""
