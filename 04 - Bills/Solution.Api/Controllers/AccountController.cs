@@ -1,8 +1,4 @@
-﻿using Solution.Core.Interfaces;
-using Solution.Core.Models;
-using System.ComponentModel.DataAnnotations;
-
-namespace Solution.Api.Controllers;
+﻿namespace Solution.Api.Controllers;
 
 public class AccountController(IAccountService accountService) : BaseController
 {
@@ -30,9 +26,9 @@ public class AccountController(IAccountService accountService) : BaseController
 
     [HttpGet]
     [Route("api/account/{id}")]
-    public async Task<IActionResult> GetByIdAsync([FromRoute][Required] int id)
+    public async Task<IActionResult> GetByIdAsync([FromRoute][Required] string accountNumber)
     {
-        var result = await accountService.GetByIdAsync(id);
+        var result = await accountService.GetByIdAsync(accountNumber);
         return result.Match(
             result => Ok(result),
             errors => Problem(errors)
@@ -63,9 +59,9 @@ public class AccountController(IAccountService accountService) : BaseController
 
     [HttpDelete]
     [Route("api/account/delete/{id}")]
-    public async Task<IActionResult> DeleteAsync([FromRoute][Required] int id)
+    public async Task<IActionResult> DeleteAsync([FromRoute][Required] string accountNumber)
     {
-        var result = await accountService.DeleteAsync(id);
+        var result = await accountService.DeleteAsync(accountNumber);
         return result.Match(
             result => Ok(new OkResult()),
             errors => Problem(errors)

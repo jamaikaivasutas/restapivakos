@@ -50,3 +50,8 @@
 17 - IO feladatok/11 - NB1/NB1/NB1/obj
 04 - Bills/Solution.DesktopApp/obj
 04 - Bills/Solution.ValidationLibrary/obj
+04 - Bills/Solution.Api/bin
+04 - Bills/Solution.Core/bin
+04 - Bills/Solution.Database/bin
+04 - Bills/Solution.PdfGenerator/bin
+04 - Bills/Solution.Services/bin

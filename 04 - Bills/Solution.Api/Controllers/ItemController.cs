@@ -1,8 +1,4 @@
-﻿using Solution.Core.Interfaces;
-using Solution.Core.Models;
-using System.ComponentModel.DataAnnotations;
-
-namespace Solution.Api.Controllers
+﻿namespace Solution.Api.Controllers
 {
     public class ItemController(IItemService itemService) : BaseController
     {

@@ -6,3 +6,6 @@ global using Microsoft.EntityFrameworkCore;
 global using Solution.DataBase;
 global using FluentValidation;
 global using FluentValidation.AspNetCore;
+global using Solution.Core.Interfaces;
+global using Solution.Core.Models;
+global using System.ComponentModel.DataAnnotations;

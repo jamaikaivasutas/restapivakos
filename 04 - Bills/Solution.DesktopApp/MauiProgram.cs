@@ -1,4 +1,7 @@
-﻿namespace Solution.DesktopApp;
+﻿using Syncfusion.Maui.Core.Hosting;
+using Syncfusion.Maui.Toolkit.Hosting;
+
+namespace Solution.DesktopApp;
 
 public static class MauiProgram
 {
@@ -10,6 +13,8 @@ public static class MauiProgram
                {
                    options.SetShouldEnableSnackbarOnWindows(true);
                })
+               .ConfigureSyncfusionCore()
+               .ConfigureSyncfusionToolkit()
                .UseMauiCommunityToolkitMarkup()
                .UseFontConfiguration()
                .UseAppConfigurations()
