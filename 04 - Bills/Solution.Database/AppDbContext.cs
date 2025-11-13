@@ -1,37 +1,14 @@
-﻿namespace Solution.DataBase;
+﻿using Solution.Database.Entities;
 
-public class AppDbContext() : DbContext
+namespace Solution.DataBase;
+
+public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
-	private static string connectionString = string.Empty;
+	public DbSet<AccountEntity> Accounts { get; set; }
+	public DbSet<ItemEntity> Items { get; set; }
 
-	static AppDbContext()
-	{
-		connectionString = GetConnectionString();
-	}
-
-	protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-	{
-		ArgumentNullException.ThrowIfNull(connectionString);
-
-		base.OnConfiguring(optionsBuilder);
-
-		optionsBuilder.UseSqlServer(connectionString);
-	}
-
-	private static string GetConnectionString()
-	{
-#if DEBUG
-		var file = "appSettings.Development.json";
-#else
-        var file = "connectionString.Production.json";
-#endif
-		var stream = new MemoryStream(File.ReadAllBytes($"{file}"));
-
-		var config = new ConfigurationBuilder()
-					.AddJsonStream(stream)
-					.Build();
-
-		var connectionStirng = config.GetValue<string>("SqlConnectionString");
-		return connectionStirng;
-	}
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        base.OnConfiguring(optionsBuilder);
+    }
 }

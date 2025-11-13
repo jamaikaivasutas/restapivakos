@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,40 +39,76 @@
       "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.pdfgenerator\\pdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|solutionrelative:solution.pdfgenerator\\pdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.pdfgenerator\\ipdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|solutionrelative:solution.pdfgenerator\\ipdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\validators\\accountmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\validators\\accountmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.pdfgenerator\\pdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|solutionrelative:solution.pdfgenerator\\pdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\configurations\\configurationofappsettingsmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configurationofappsettingsmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.pdfgenerator\\ipdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|solutionrelative:solution.pdfgenerator\\ipdfgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,36 +119,16 @@
       "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\validators\\itemmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.services\\validators\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\validators\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\entities\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,24 +175,12 @@
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.core\\solution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\solution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.pdfgenerator\\solution.pdfgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B7E757A9-D198-488D-BBB8-C9D39EABDB4A}|Solution.PdfGenerator\\Solution.PdfGenerator.csproj|solutionrelative:solution.pdfgenerator\\solution.pdfgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D411472-18DC-49DC-8DD2-3CC0671E98F1}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\04 - bills\\solution.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -178,254 +198,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\ItemService.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Services\\ItemService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\ItemService.cs",
-              "RelativeToolTip": "Solution.Services\\Services\\ItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:55:59.595Z",
+              "WhenOpened": "2025-11-13T08:08:37.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\AccountService.cs",
-              "RelativeToolTip": "Solution.Services\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "ValidationResultToErrorMessageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:55:50.948Z",
+              "WhenOpened": "2025-11-13T08:07:39.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Solution.Database.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Solution.Database.csproj",
+              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Solution.Database.csproj",
+              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T08:28:59.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solution.DesktopApp.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-06T06:40:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ConfigureDI.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
               "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T07:51:42.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConfigureSQLServer.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:37:07.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAtwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:32:47.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PdfgeneratorService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\PdfgeneratorService.cs",
-              "RelativeDocumentMoniker": "Solution.PdfGenerator\\PdfgeneratorService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\PdfgeneratorService.cs",
-              "RelativeToolTip": "Solution.PdfGenerator\\PdfgeneratorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:22:19.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPdfgeneratorService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\IPdfgeneratorService.cs",
-              "RelativeDocumentMoniker": "Solution.PdfGenerator\\IPdfgeneratorService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\IPdfgeneratorService.cs",
-              "RelativeToolTip": "Solution.PdfGenerator\\IPdfgeneratorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:22:17.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ItemModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\ItemModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\ItemModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\ItemModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\ItemModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:37:28.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.Services\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:30:20.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:52:28.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\AccountModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\AccountModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\AccountModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\AccountModel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:37:08.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ItemModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\ItemModelValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Validators\\ItemModelValidator.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\ItemModelValidator.cs",
-              "RelativeToolTip": "Solution.Services\\Validators\\ItemModelValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:09:55.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AccountModelValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Validators\\AccountModelValidator.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AccountModelValidator.cs",
-              "RelativeToolTip": "Solution.Services\\Validators\\AccountModelValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:58:26.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.Database\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.Database\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:31:37.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Solution.Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AppDbContext.cs",
-              "RelativeToolTip": "Solution.Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:20:11.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PaginationModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:20:03.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Validators\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.Services\\Validators\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:54:41.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:39:10.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Program.cs",
-              "RelativeToolTip": "Solution.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:31:11.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "IItemService.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Interfaces\\IItemService.cs",
               "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IItemService.cs",
@@ -438,85 +276,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BaseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\BaseValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\Validators\\BaseValidator.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\BaseValidator.cs",
-              "RelativeToolTip": "Solution.Services\\Validators\\BaseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Solution.Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AppDbContext.cs",
+              "RelativeToolTip": "Solution.Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:51:45.042Z",
+              "WhenOpened": "2025-11-06T08:20:11.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Interfaces\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Interfaces\\IAccountService.cs",
-              "RelativeToolTip": "Solution.Core\\Interfaces\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\ItemService.cs",
+              "RelativeToolTip": "Solution.Services\\Services\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:06:34.97Z",
+              "WhenOpened": "2025-11-12T07:55:59.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:05:47.981Z",
+              "WhenOpened": "2025-11-12T06:52:28.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:17:24.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AccountEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Entities\\AccountEntity.cs",
-              "RelativeDocumentMoniker": "Solution.Database\\Entities\\AccountEntity.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Entities\\AccountEntity.cs",
-              "RelativeToolTip": "Solution.Database\\Entities\\AccountEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:28:29.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LoadAppSettingsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:33:48.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 9,
               "Title": "ItemEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Entities\\ItemEntity.cs",
               "RelativeDocumentMoniker": "Solution.Database\\Entities\\ItemEntity.cs",
@@ -529,7 +328,314 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\ItemModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:37:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\AccountService.cs",
+              "RelativeToolTip": "Solution.Services\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:55:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:33:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Solution.Services",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Solution.Services.csproj",
+              "RelativeDocumentMoniker": "Solution.Services\\Solution.Services.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Solution.Services.csproj",
+              "RelativeToolTip": "Solution.Services\\Solution.Services.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T06:39:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:06:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Program.cs",
+              "RelativeToolTip": "Solution.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:31:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T08:16:19.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigurationOfAppSettingsMapping.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:20:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfigureSQLServer.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:07.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:32:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PdfgeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\PdfgeneratorService.cs",
+              "RelativeDocumentMoniker": "Solution.PdfGenerator\\PdfgeneratorService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\PdfgeneratorService.cs",
+              "RelativeToolTip": "Solution.PdfGenerator\\PdfgeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:22:19.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Validators\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.Services\\Validators\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:54:41.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AccountModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Validators\\AccountModelValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\AccountModelValidator.cs",
+              "RelativeToolTip": "Solution.Services\\Validators\\AccountModelValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:58:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPdfgeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\IPdfgeneratorService.cs",
+              "RelativeDocumentMoniker": "Solution.PdfGenerator\\IPdfgeneratorService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\IPdfgeneratorService.cs",
+              "RelativeToolTip": "Solution.PdfGenerator\\IPdfgeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:22:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.Services\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:30:20.302Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\AccountModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:37:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\ItemModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Validators\\ItemModelValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\ItemModelValidator.cs",
+              "RelativeToolTip": "Solution.Services\\Validators\\ItemModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:09:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.Database\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.Database\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:31:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:20:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:39:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\BaseValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\Validators\\BaseValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Validators\\BaseValidator.cs",
+              "RelativeToolTip": "Solution.Services\\Validators\\BaseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:51:45.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:05:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:17:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Entities\\AccountEntity.cs",
+              "RelativeDocumentMoniker": "Solution.Database\\Entities\\AccountEntity.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Entities\\AccountEntity.cs",
+              "RelativeToolTip": "Solution.Database\\Entities\\AccountEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:28:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoadAppSettingsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:33:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Solution.Api\\GlobalUsings.cs",
@@ -537,12 +643,11 @@
               "RelativeToolTip": "Solution.Api\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:25:50.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:25:50.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "DatabaseConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
               "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
@@ -550,12 +655,11 @@
               "RelativeToolTip": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:27:19.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T07:27:19.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Solution.Api",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Solution.Api.csproj",
               "RelativeDocumentMoniker": "Solution.Api\\Solution.Api.csproj",
@@ -567,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "FluentValidationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
               "RelativeDocumentMoniker": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
@@ -575,12 +679,11 @@
               "RelativeToolTip": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:26:48.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:26:48.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Solution.Api\\appsettings.json",
@@ -588,12 +691,11 @@
               "RelativeToolTip": "Solution.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T08:20:51.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:20:51.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Solution.Database\\GlobalUsings.cs",
@@ -605,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "connectionString.Development.json",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\connectionString.Development.json",
               "RelativeDocumentMoniker": "Solution.Database\\connectionString.Development.json",
@@ -617,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Solution.Core\\GlobalUsings.cs",
@@ -629,31 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DiConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:33:55.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Solution.Database.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Solution.Database.csproj",
-              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Database\\Solution.Database.csproj",
-              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T08:28:59.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "Solution.Core.csproj",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Core\\Solution.Core.csproj",
               "RelativeDocumentMoniker": "Solution.Core\\Solution.Core.csproj",
@@ -661,11 +739,12 @@
               "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T08:29:12.582Z"
+              "WhenOpened": "2025-11-05T08:29:12.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "Solution.PdfGenerator.csproj",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
               "RelativeDocumentMoniker": "Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
@@ -673,23 +752,12 @@
               "RelativeToolTip": "Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T06:41:16.153Z"
+              "WhenOpened": "2025-11-06T06:41:16.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Solution.DesktopApp.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T06:40:58.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Solution.Api\\Properties\\launchSettings.json",
