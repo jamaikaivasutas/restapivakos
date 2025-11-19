@@ -11,7 +11,7 @@ public class ItemEntity
     [StringLength(64)]
     public string Name { get; set; }
 
-    [Required]
+    [Required] 
     public int Price { get; set; }
 
     [Required]
@@ -20,6 +20,4 @@ public class ItemEntity
     [ForeignKey("Account")]
     public string AccountId { get; set; }
     public AccountEntity Account { get; set; }
-    public ICollection<AccountEntity> Accounts { get; set; }
-
 }

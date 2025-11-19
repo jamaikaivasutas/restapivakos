@@ -5,10 +5,12 @@ namespace Solution.Services.Services;
 public class AccountService(AppDbContext dbContext) : IAccountService
 {
     private const int ROW_COUNT = 20;
+    
+    //Need to find out whats unfinished with the services
 
     public async Task<ErrorOr<AccountModel>> CreateAsync(AccountModel model)
     {
-        bool exists = await dbContext.Accounts.AnyAsync(x => x.ItemId == model.Item.Id);
+        bool exists = await dbContext.Accounts.AnyAsync(x => x.AccountNumber == model.AccountNumber);
 
         if (exists)
         {
@@ -33,7 +35,6 @@ public class AccountService(AppDbContext dbContext) : IAccountService
                                              .ExecuteUpdateAsync(x => x
                                                  .SetProperty(a => a.DateOfCreation, model.DateOfCreation)
                                                  .SetProperty(a => a.SumOfItemPrices, model.SumOfItemPrices)
-                                                 .SetProperty(a => a.ItemId, model.Item.Id)
                                              );
         return result > 0 ? Result.Success : Error.NotFound();
     }
@@ -42,7 +43,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
     {
         var result = await dbContext.Accounts
                                     .AsNoTracking()
-                                    .Include(x => x.Item)
+                                    .Include(x => x.Items)
                                     .Where(x => x.AccountNumber == accountNumber)
                                     .ExecuteDeleteAsync();
 
@@ -53,7 +54,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
     {
         var account = await dbContext.Accounts
                                      .AsNoTracking()
-                                     .Include(x => x.Item)
+                                     .Include(x => x.Items)
                                      .FirstOrDefaultAsync(x => x.AccountNumber == accountNumber);
 
         if (account is null)
@@ -66,7 +67,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
 
     public async Task<ErrorOr<List<AccountModel>>> GetAllAsync() =>
         await dbContext.Accounts.AsNoTracking()
-                                .Include(x => x.Item)
+                                .Include(x => x.Items)
                                 .Select(x => new AccountModel(x))
                                 .ToListAsync();
 
@@ -75,7 +76,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
         page = page <= 0 ? 1 : page - 1;
 
         var accounts = await dbContext.Accounts.AsNoTracking()
-                                               .Include(x => x.Item)
+                                               .Include(x => x.Items)
                                                .Skip(page * ROW_COUNT)
                                                .Take(ROW_COUNT)
                                                .Select(x => new AccountModel(x))

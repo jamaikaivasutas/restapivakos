@@ -3,6 +3,138 @@
   "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createmanufacturerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createmanufacturerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\motorcycletypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\motorcycletypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\motorcycleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\motorcycleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createmanufacturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createmanufacturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createtypeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createtypeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttohaserrorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\itypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\itypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\imotorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\imotorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,32 +151,12 @@
       "RelativeMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\motorcycletypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\motorcycletypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\typemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\typemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\diconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\solution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -55,20 +167,8 @@
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\imotorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\imotorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\configurations\\loadappsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\configurations\\loadappsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\solution.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\solution.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -77,14 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\solution.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\motorcycleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\motorcycleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\keys\\httpcontextitemkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,24 +191,8 @@
       "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\solution.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\motorcyclelistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\motorcyclelistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configureappvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\manufacturerlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -135,36 +211,8 @@
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditmotorcycleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createoreditmotorcycleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createmanufacturerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createmanufacturerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createmanufacturerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\createmanufacturerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\behaviors\\entryintegerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,32 +223,12 @@
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configurefonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuresqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\extensions\\navigationstackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\views\\createtypeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,24 +251,12 @@
       "RelativeMoniker": "D:0:0:{B206DD33-88C8-40C1-8787-A1230B41D6AF}|Solution.Validators\\Solution.Validators.csproj|solutionrelative:solution.validators\\motorcyclemodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createmanufacturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createmanufacturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\models\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\solution.desktopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\solution.desktopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\converters\\validationresulttoerrormessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.desktopapp\\configurations\\configurationofappsettingsmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -251,16 +267,8 @@
       "RelativeMoniker": "D:0:0:{5D4FAFE2-74CA-4D26-BAE7-963FDD0CD980}|Solution.Api\\Solution.Api.csproj|solutionrelative:solution.api\\solution.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\itypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\interfaces\\itypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\03 - motorcycles\\solution.core\\interfaces\\igoogledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -313,44 +321,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FluentValidationConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateOrEditMotorcycleView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T16:13:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateManufacturerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:00:04.656Z",
+              "WhenOpened": "2025-10-21T20:38:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:14:28.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.Validators\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:57:54.351Z"
+              "WhenOpened": "2025-10-21T20:02:37.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MotorcycleModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\MotorcycleModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\MotorcycleModel.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEMAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CreateOrEditMotorcycleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwFYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:36:03.802Z",
+              "WhenOpened": "2025-10-21T16:13:55.109Z",
               "EditorCaption": ""
             },
             {
@@ -363,19 +398,21 @@
               "RelativeToolTip": "Solution.DataBase\\Entities\\MotorcycleTypeEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:27:24.208Z"
+              "WhenOpened": "2025-10-19T14:27:24.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TypeModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\TypeModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\TypeModel.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Title": "MotorcycleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\Entities\\MotorcycleEntity.cs",
+              "RelativeDocumentMoniker": "Solution.DataBase\\Entities\\MotorcycleEntity.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\Entities\\MotorcycleEntity.cs",
+              "RelativeToolTip": "Solution.DataBase\\Entities\\MotorcycleEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:50:59.27Z"
+              "WhenOpened": "2025-10-19T14:27:22.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -387,144 +424,12 @@
               "RelativeToolTip": "Solution.Core\\Models\\ManufacturerModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:45:38.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DatabaseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:59:16.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DiConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DiConfigurations.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:59:28.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ManufacturerModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\ManufacturerModelValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\ManufacturerModelValidator.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\ManufacturerModelValidator.cs",
-              "RelativeToolTip": "Solution.Validators\\ManufacturerModelValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:25:31.062Z",
+              "WhenOpened": "2025-10-19T14:45:38.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManufacturerService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\ManufacturerService.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\ManufacturerService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\ManufacturerService.cs",
-              "RelativeToolTip": "Solution.Services\\ManufacturerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T20:04:55.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Solution.DataBase\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\AssemblyReference.cs",
-              "RelativeToolTip": "Solution.DataBase\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:21:32.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Solution.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
-              "RelativeDocumentMoniker": "Solution.Core\\Solution.Core.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
-              "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:09:18.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PaginationModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:50:51.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IMotorcycleService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IMotorcycleService.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IMotorcycleService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IMotorcycleService.cs",
-              "RelativeToolTip": "Solution.Core\\Interfaces\\IMotorcycleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:38:47.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoadAppSettingsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:00:23.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ManufacturerController.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\ManufacturerController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ManufacturerController.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\ManufacturerController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\ManufacturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:24:49.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Solution.Services.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
-              "RelativeDocumentMoniker": "Solution.Services\\Solution.Services.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
-              "RelativeToolTip": "Solution.Services\\Solution.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:09:32.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "ManufacturerEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\Entities\\ManufacturerEntity.cs",
               "RelativeDocumentMoniker": "Solution.DataBase\\Entities\\ManufacturerEntity.cs",
@@ -532,11 +437,12 @@
               "RelativeToolTip": "Solution.DataBase\\Entities\\ManufacturerEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:27:23.426Z"
+              "WhenOpened": "2025-10-19T14:27:23.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Solution.DataBase\\AppDbContext.cs",
@@ -544,59 +450,189 @@
               "RelativeToolTip": "Solution.DataBase\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:22:34.094Z"
+              "WhenOpened": "2025-10-19T14:22:34.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CreateManufacturerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:06:52.202Z"
+              "WhenOpened": "2025-10-21T16:14:25.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MotorcycleEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\Entities\\MotorcycleEntity.cs",
-              "RelativeDocumentMoniker": "Solution.DataBase\\Entities\\MotorcycleEntity.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\Entities\\MotorcycleEntity.cs",
-              "RelativeToolTip": "Solution.DataBase\\Entities\\MotorcycleEntity.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\ManufacturerController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\ManufacturerController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:27:22.801Z"
+              "WhenOpened": "2025-10-02T06:24:49.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Solution.Database.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
-              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
-              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:07:28.142Z"
+              "DocumentIndex": 13,
+              "Title": "CreateTypeView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateTypeView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateTypeView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T06:44:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\App.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:02:31.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:04:24.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T19:14:03.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Solution.DesktopApp.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:08:28.432Z"
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T16:36:13.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T19:21:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavigationStackExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:16:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:20:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationResultToErrorMessageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:13:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationResultToHasErrorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToHasErrorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:07:05.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfigureFonts.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:42:57.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfigureAppVariables.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:41:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ConfigureDI.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
@@ -609,484 +645,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "MotorcycleListView.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T21:45:07.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Program.cs",
-              "RelativeToolTip": "Solution.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\ManufacturerService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\ManufacturerService.cs",
+              "RelativeToolTip": "Solution.Services\\ManufacturerService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:30:29.44Z"
+              "WhenOpened": "2025-10-19T20:04:55.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HttpContextItemKeys.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:44:56.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Solution.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
-              "RelativeDocumentMoniker": "Solution.Api\\Solution.Api.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
-              "RelativeToolTip": "Solution.Api\\Solution.Api.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T20:33:35.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ManufacturerListView.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T17:47:16.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ManufacturerListComponent.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T21:47:44.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ManufacturerListComponent.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:50:55.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ConfigureAppVariables.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureAppVariables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:41:20.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CreateOrEditMotorcycleView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:42:19.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AppShellViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:14:28.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CreateOrEditMotorcycleView.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAAAIoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T16:13:48.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CreateOrEditMotorcycleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:13:55.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "CreateManufacturerView.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T17:06:08.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "CreateManufacturerView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:38:53.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-20T16:36:13.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T19:14:03.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml",
-              "RelativeToolTip": "Solution.DesktopApp\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-21T19:21:27.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "EntryIntegerBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:27:26.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:15:27.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\AppShell.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:02:37.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ExceptionHandler.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ExceptionHandler.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ExceptionHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:02:36.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\App.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\App.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:02:31.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\MainView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:04:24.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ConfigureFonts.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureFonts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:42:57.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ConfigureSQLServer.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:20:38.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "NavigationStackExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:16:53.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CreateTypeView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:07:20.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:00:13.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "MotorcycleListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAkwAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:53:50.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ManufacturerListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:35:07.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "MotorcycleModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
-              "RelativeDocumentMoniker": "Solution.Validators\\MotorcycleModelValidator.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
-              "RelativeToolTip": "Solution.Validators\\MotorcycleModelValidator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:04:59.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "CreateManufacturerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateManufacturerViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:14:25.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ImageUploadResponse.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Models\\ImageUploadResponse.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
-              "RelativeToolTip": "Solution.Core\\Models\\ImageUploadResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:01:36.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Solution.DesktopApp",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T16:54:37.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\GlobalUsings.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:20:27.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ValidationResultToErrorMessageConverter.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:13:11.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "ConfigurationOfAppSettingsMapping.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T16:41:10.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Solution.Api",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
-              "RelativeDocumentMoniker": "Solution.Api\\Solution.Api.csproj",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
-              "RelativeToolTip": "Solution.Api\\Solution.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T14:56:31.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "MotorcycleService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
-              "RelativeDocumentMoniker": "Solution.Services\\MotorcycleService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
-              "RelativeToolTip": "Solution.Services\\MotorcycleService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAD4vzcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:36:56.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "IManufacturerService.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IManufacturerService.cs",
-              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IManufacturerService.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IManufacturerService.cs",
-              "RelativeToolTip": "Solution.Core\\Interfaces\\IManufacturerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:40:14.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 28,
               "Title": "ITypeService.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\ITypeService.cs",
               "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\ITypeService.cs",
@@ -1098,7 +668,485 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.DataBase\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DataBase\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.DataBase\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:21:32.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MotorcycleService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\MotorcycleService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
+              "RelativeToolTip": "Solution.Services\\MotorcycleService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:36:56.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMotorcycleService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IMotorcycleService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IMotorcycleService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IMotorcycleService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IMotorcycleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:38:47.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Program.cs",
+              "RelativeToolTip": "Solution.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:30:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DiConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DiConfigurations.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\DiConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:59:28.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Solution.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
+              "RelativeDocumentMoniker": "Solution.Services\\Solution.Services.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
+              "RelativeToolTip": "Solution.Services\\Solution.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:09:32.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MotorcycleModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:36:03.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\AssemblyReference.cs",
+              "RelativeToolTip": "Solution.Validators\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:57:54.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FluentValidationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\FluentValidationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:00:04.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\TypeModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\TypeModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\TypeModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:50:59.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\DatabaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:59:16.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManufacturerModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\ManufacturerModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\ManufacturerModelValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\ManufacturerModelValidator.cs",
+              "RelativeToolTip": "Solution.Validators\\ManufacturerModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:25:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Solution.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
+              "RelativeDocumentMoniker": "Solution.Core\\Solution.Core.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
+              "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:09:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\PaginationModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:50:51.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoadAppSettingsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "RelativeToolTip": "Solution.Api\\Configurations\\LoadAppSettingsConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:00:23.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Solution.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:06:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Solution.Database.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
+              "RelativeDocumentMoniker": "Solution.Database\\Solution.Database.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
+              "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:07:28.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Solution.DesktopApp.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:08:28.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MotorcycleListView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\MotorcycleListView.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T21:45:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HttpContextItemKeys.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\Keys\\HttpContextItemKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:44:56.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Solution.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
+              "RelativeDocumentMoniker": "Solution.Api\\Solution.Api.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
+              "RelativeToolTip": "Solution.Api\\Solution.Api.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T20:33:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManufacturerListView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\ManufacturerListView.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T17:47:16.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ManufacturerListComponent.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T21:47:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ManufacturerListComponent.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\ManufacturerListComponent.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:50:55.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateOrEditMotorcycleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateOrEditMotorcycleView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:42:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateManufacturerView.xaml",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateManufacturerView.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T17:06:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EntryIntegerBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Behaviors\\EntryIntegerBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:27:26.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\MauiProgram.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:15:27.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ExceptionHandler.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:02:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ConfigureSQLServer.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureSQLServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:20:38.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateTypeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Views\\CreateTypeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:07:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:00:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MotorcycleListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:53:50.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ManufacturerListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\ManufacturerListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:35:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MotorcycleModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
+              "RelativeDocumentMoniker": "Solution.Validators\\MotorcycleModelValidator.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\MotorcycleModelValidator.cs",
+              "RelativeToolTip": "Solution.Validators\\MotorcycleModelValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:04:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ImageUploadResponse.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Models\\ImageUploadResponse.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ImageUploadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:01:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Solution.DesktopApp",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T16:54:37.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ConfigurationOfAppSettingsMapping.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigurationOfAppSettingsMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:41:10.79Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 65,
+              "Title": "Solution.Api",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
+              "RelativeDocumentMoniker": "Solution.Api\\Solution.Api.csproj",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Solution.Api.csproj",
+              "RelativeToolTip": "Solution.Api\\Solution.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T14:56:31.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IManufacturerService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IManufacturerService.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IManufacturerService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IManufacturerService.cs",
+              "RelativeToolTip": "Solution.Core\\Interfaces\\IManufacturerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:40:14.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
               "Title": "IGoogleDriveService.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\Interfaces\\IGoogleDriveService.cs",
               "RelativeDocumentMoniker": "Solution.Core\\Interfaces\\IGoogleDriveService.cs",
@@ -1110,7 +1158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Core\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Solution.Core\\GlobalUsings.cs",
@@ -1122,7 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Services\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Solution.Services\\GlobalUsings.cs",
@@ -1134,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "BaseValidator.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\BaseValidator.cs",
               "RelativeDocumentMoniker": "Solution.Validators\\BaseValidator.cs",
@@ -1146,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "Solution.Validators.csproj",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\Solution.Validators.csproj",
               "RelativeDocumentMoniker": "Solution.Validators\\Solution.Validators.csproj",
@@ -1158,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "Solution.Validators",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Validators\\Solution.Validators.csproj",
               "RelativeDocumentMoniker": "Solution.Validators\\Solution.Validators.csproj",
@@ -1169,7 +1217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "Solution.Core.Models.ManufacturerModel.g.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\AppData\\Local\\Temp\\VSGeneratedDocuments\\cbf27ff4-1ad7-1f52-6bb0-a8f41dbbf1de\\Solution.Core.Models.ManufacturerModel.g.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Alex\\AppData\\Local\\Temp\\VSGeneratedDocuments\\cbf27ff4-1ad7-1f52-6bb0-a8f41dbbf1de\\Solution.Core.Models.ManufacturerModel.g.cs",
@@ -1181,7 +1229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "appSettings.Production.json",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\appSettings.Production.json",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\appSettings.Production.json",
@@ -1193,7 +1241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.DesktopApp\\Platforms\\iOS\\Program.cs",
               "RelativeDocumentMoniker": "Solution.DesktopApp\\Platforms\\iOS\\Program.cs",
@@ -1205,7 +1253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "MotorcycleController.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\MotorcycleController.cs",
               "RelativeDocumentMoniker": "Solution.Api\\Controllers\\MotorcycleController.cs",
@@ -1217,7 +1265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "TypeController.cs",
               "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\03 - Motorcycles\\Solution.Api\\Controllers\\TypeController.cs",
               "RelativeDocumentMoniker": "Solution.Api\\Controllers\\TypeController.cs",

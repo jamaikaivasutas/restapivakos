@@ -15,10 +15,6 @@ public partial class AccountModel : ObservableObject
     [JsonPropertyName("sumOfItemPrices")]
     private int? sumOfItemPrices;
 
-    [ObservableProperty]
-    [JsonPropertyName("item")]
-    private ItemModel item;
-
     public AccountModel()
     {
         
@@ -29,7 +25,6 @@ public partial class AccountModel : ObservableObject
         this.AccountNumber = entity.AccountNumber;
         this.DateOfCreation = entity.DateOfCreation;
         this.SumOfItemPrices = entity.SumOfItemPrices;
-        this.Item = new ItemModel(entity.Item);
     }
 
     public AccountEntity ToEntity()
@@ -39,7 +34,6 @@ public partial class AccountModel : ObservableObject
             AccountNumber = AccountNumber,
             DateOfCreation = DateOfCreation.Date,
             SumOfItemPrices = SumOfItemPrices.Value,
-            ItemId = Item.Id,
         };
     }
 
@@ -48,6 +42,5 @@ public partial class AccountModel : ObservableObject
         entity.AccountNumber = AccountNumber;
         entity.DateOfCreation = DateOfCreation.Date;
         entity.SumOfItemPrices = SumOfItemPrices.Value;
-        entity.ItemId = Item.Id;
     }
 }

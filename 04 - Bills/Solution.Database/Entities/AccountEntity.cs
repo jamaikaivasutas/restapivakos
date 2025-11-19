@@ -12,9 +12,5 @@ public class AccountEntity
     [Required]
     public int SumOfItemPrices { get; set; }
 
-    [ForeignKey("Item")]
-    public int ItemId { get; set; }    
-    public ItemEntity Item { get; set; }
-
     public ICollection<ItemEntity> Items { get; set; }
 }

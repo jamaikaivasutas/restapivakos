@@ -5,4 +5,4 @@ global using ErrorOr;
 global using Microsoft.EntityFrameworkCore;
 global using Solution.Core.Interfaces;
 global using Solution.Core.Models;
-global using Solution.DataBase;
+global using Solution.Database;

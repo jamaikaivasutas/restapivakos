@@ -1,11 +1,14 @@
-﻿using Solution.Database.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solution.Database.Entities;
 
-namespace Solution.DataBase;
+namespace Solution.Database;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
+public class AppDbContext : DbContext
 {
-	public DbSet<AccountEntity> Accounts { get; set; }
-	public DbSet<ItemEntity> Items { get; set; }
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+    public DbSet<AccountEntity> Accounts { get; set; } = null!;
+    public DbSet<ItemEntity> Items { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

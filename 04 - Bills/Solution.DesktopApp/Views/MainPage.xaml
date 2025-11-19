@@ -3,10 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:viewModel="clr-namespace:Solution.DesktopApp.ViewModels"
              x:DataType="viewModel:MainPageViewModel"
-             x:Class="Solution.DesktopApp.MainPage">
+             x:Class="Solution.DesktopApp.MainPage"
+             BackgroundColor="Black">
 
-    <StackLayout>
-        
-    </StackLayout>
+    <Grid>
+    </Grid>
 
 </ContentPage>

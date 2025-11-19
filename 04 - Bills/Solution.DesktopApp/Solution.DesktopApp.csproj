@@ -111,6 +111,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Views\NewAccountView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Update="appSettings.Development.json">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
