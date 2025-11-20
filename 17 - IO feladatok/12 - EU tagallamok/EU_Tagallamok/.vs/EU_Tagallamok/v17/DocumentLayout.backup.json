@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79DD457C-23CA-48AB-8024-E9E187220C88}|EU_Tagallamok\\EU_Tagallamok.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\12 - eu tagallamok\\eu_tagallamok\\eu_tagallamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DD457C-23CA-48AB-8024-E9E187220C88}|EU_Tagallamok\\EU_Tagallamok.csproj|solutionrelative:eu_tagallamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DD457C-23CA-48AB-8024-E9E187220C88}|EU_Tagallamok\\EU_Tagallamok.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\12 - eu tagallamok\\eu_tagallamok\\eu_tagallamok\\memberstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DD457C-23CA-48AB-8024-E9E187220C88}|EU_Tagallamok\\EU_Tagallamok.csproj|solutionrelative:eu_tagallamok\\memberstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberState.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\EU_Tagallamok\\MemberState.cs",
+              "RelativeDocumentMoniker": "EU_Tagallamok\\MemberState.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\EU_Tagallamok\\MemberState.cs",
+              "RelativeToolTip": "EU_Tagallamok\\MemberState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:32:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\EU_Tagallamok\\Program.cs",
+              "RelativeDocumentMoniker": "EU_Tagallamok\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\EU_Tagallamok\\Program.cs",
+              "RelativeToolTip": "EU_Tagallamok\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:19:23.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
