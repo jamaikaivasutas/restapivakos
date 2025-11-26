@@ -254,8 +254,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Views\\NewAccountView.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T06:45:31.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:45:31.785Z"
             },
             {
               "$type": "Document",
@@ -267,8 +266,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\AppShellViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T08:17:05.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T08:17:05.946Z"
             },
             {
               "$type": "Document",
@@ -280,8 +278,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Views\\NewAccountView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T08:21:57.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T08:21:57.802Z"
             },
             {
               "$type": "Document",
@@ -291,7 +288,7 @@
               "RelativeDocumentMoniker": "Solution.Services\\Services\\AccountService.cs",
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Services\\Services\\AccountService.cs",
               "RelativeToolTip": "Solution.Services\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T07:55:50.948Z",
               "EditorCaption": ""
@@ -306,8 +303,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:39:12.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:39:12.488Z"
             },
             {
               "$type": "Document",
@@ -319,8 +315,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MainPageViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T07:48:23.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T07:48:23.231Z"
             },
             {
               "$type": "Document",
@@ -332,8 +327,7 @@
               "RelativeToolTip": "Solution.Database\\Entities\\AccountEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:28:29.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:28:29.462Z"
             },
             {
               "$type": "Document",
@@ -345,8 +339,7 @@
               "RelativeToolTip": "Solution.Database\\Entities\\ItemEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:28:37.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:28:37.199Z"
             },
             {
               "$type": "Document",
@@ -358,8 +351,7 @@
               "RelativeToolTip": "Solution.Services\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:52:28.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T06:52:28.942Z"
             },
             {
               "$type": "Document",
@@ -371,8 +363,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\NewAccountViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:59:59.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:59:59.523Z"
             },
             {
               "$type": "Document",
@@ -384,8 +375,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\App.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:41:42.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:41:42.608Z"
             },
             {
               "$type": "Document",
@@ -397,8 +387,7 @@
               "RelativeToolTip": "Solution.Core\\Models\\AccountModel.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAQwCsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:37:08.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T06:37:08.684Z"
             },
             {
               "$type": "Document",
@@ -410,8 +399,7 @@
               "RelativeToolTip": "Solution.Database\\Solution.Database.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T08:28:59.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:28:59.514Z"
             },
             {
               "$type": "Document",
@@ -423,8 +411,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:08:37.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:08:37.77Z"
             },
             {
               "$type": "Document",
@@ -436,8 +423,7 @@
               "RelativeToolTip": "Solution.Api\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:25:50.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:25:50.562Z"
             },
             {
               "$type": "Document",
@@ -449,8 +435,7 @@
               "RelativeToolTip": "Solution.Database\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:20:11.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:20:11.319Z"
             },
             {
               "$type": "Document",
@@ -462,8 +447,7 @@
               "RelativeToolTip": "Solution.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T06:31:11.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T06:31:11.778Z"
             },
             {
               "$type": "Document",
@@ -475,8 +459,7 @@
               "RelativeToolTip": "Solution.Api\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T06:39:10.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T06:39:10.805Z"
             },
             {
               "$type": "Document",
@@ -488,8 +471,7 @@
               "RelativeToolTip": "Solution.Api\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T08:17:24.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:17:24.515Z"
             },
             {
               "$type": "Document",
@@ -501,8 +483,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-13T08:15:54.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:15:54.07Z"
             },
             {
               "$type": "Document",
@@ -514,8 +495,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Views\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T06:35:55.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:35:55.73Z"
             },
             {
               "$type": "Document",
@@ -527,8 +507,7 @@
               "RelativeToolTip": "Solution.PdfGenerator\\PdfgeneratorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:22:19.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T07:22:19.728Z"
             },
             {
               "$type": "Document",
@@ -540,8 +519,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Converters\\ValidationResultToErrorMessageConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:07:39.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:07:39.807Z"
             },
             {
               "$type": "Document",
@@ -553,8 +531,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Extensions\\NavigationStackExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:11:35.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:11:35.701Z"
             },
             {
               "$type": "Document",
@@ -566,8 +543,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\AppShell.xaml",
               "ViewState": "AgIAAAQAAAAAAAAAAADgvxYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T08:16:19.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T08:16:19.444Z"
             },
             {
               "$type": "Document",
@@ -579,8 +555,7 @@
               "RelativeToolTip": "Solution.Core\\Interfaces\\IItemService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T07:06:59.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T07:06:59.938Z"
             },
             {
               "$type": "Document",
@@ -592,8 +567,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Views\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:42:12.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:42:12.847Z"
             },
             {
               "$type": "Document",
@@ -605,8 +579,7 @@
               "RelativeToolTip": "Solution.Services\\Services\\ItemService.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAIwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:55:59.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T07:55:59.595Z"
             },
             {
               "$type": "Document",
@@ -642,8 +615,7 @@
               "RelativeToolTip": "Solution.DesktopApp\\Solution.DesktopApp.csproj",
               "ViewState": "AgIAAC8AAAAAAAAAAAAmwC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T06:40:58.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T06:40:58.958Z"
             },
             {
               "$type": "Document",
@@ -679,8 +651,7 @@
               "RelativeToolTip": "Solution.Services\\Solution.Services.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T06:39:59.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:39:59.954Z"
             },
             {
               "$type": "Document",
@@ -871,8 +842,7 @@
               "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\04 - Bills\\Solution.Api\\Solution.Api.csproj",
               "RelativeToolTip": "Solution.Api\\Solution.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T06:29:57.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T06:29:57.167Z"
             },
             {
               "$type": "Document",
@@ -944,8 +914,7 @@
               "RelativeToolTip": "Solution.Core\\Solution.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T08:29:12.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:29:12.582Z"
             },
             {
               "$type": "Document",
@@ -957,8 +926,7 @@
               "RelativeToolTip": "Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T06:41:16.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T06:41:16.153Z"
             },
             {
               "$type": "Document",

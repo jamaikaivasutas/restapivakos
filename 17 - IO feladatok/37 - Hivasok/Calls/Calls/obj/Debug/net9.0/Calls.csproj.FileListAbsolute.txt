@@ -1,0 +1,15 @@
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\bin\Debug\net9.0\Calls.exe
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\bin\Debug\net9.0\Calls.deps.json
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\bin\Debug\net9.0\Calls.runtimeconfig.json
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\bin\Debug\net9.0\Calls.dll
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\bin\Debug\net9.0\Calls.pdb
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.AssemblyInfoInputs.cache
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.AssemblyInfo.cs
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.csproj.CoreCompileInputs.cache
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.sourcelink.json
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.dll
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\refint\Calls.dll
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.pdb
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\Calls.genruntimeconfig.cache
+C:\Users\b1duzale\Desktop\restapivakos\17 - IO feladatok\37 - Hivasok\Calls\Calls\obj\Debug\net9.0\ref\Calls.dll
