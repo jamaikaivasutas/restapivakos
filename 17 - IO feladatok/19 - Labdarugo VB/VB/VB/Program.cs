@@ -44,17 +44,36 @@ var stadiumsWithTwoNames = matches.Where(x => x.SecondName != "n.a.").Count();
 
 Console.WriteLine($"6. feladat: Két neven is ismert stadionok száma: {stadiumsWithTwoNames}");
 
-//
-Console.Write("7. feladat: Kérem a város nevét: ");
-var cityName = Console.ReadLine();
-
-var isVBCity = matches.Any(x => x.City == cityName);
-
-if(isVBCity)
+//Kérje be a felhasználótól egy város nevét, az adatbevitelt mindaddig ismételje amíg a bevit név hossza nem éri el a három karaktert
+while(true)
 {
-    Console.WriteLine("8. feladat: A megadott város VB helyszín");
+    Console.Write("7. feladat: Kérem a város nevét: ");
+    var cityName = Console.ReadLine();
+    if (cityName.Length >= 3)
+    {
+        var isVBCity = matches.Any(x => x.City == cityName);
+
+        if (isVBCity)
+        {
+            Console.WriteLine("8. feladat: A megadott város VB helyszín");
+            break;
+        }
+        else
+        {
+            Console.WriteLine("8. feladat: A megadott város nem VB helyszín");
+            break;
+        }
+    }
+    else
+    {
+        Console.WriteLine("A város neve legalább 3 karakter hosszú kell legyen!");
+    }
 }
-else
-{
-    Console.WriteLine("8. feladat: A megadott város nem VB helyszín");
-}
+
+//9. Határozza meg és írja ki a képernyőre hogy hány különböző városban zajlottak  VB mérkőzései!
+
+var differentCities = matches.Select(x => x.City).Distinct().Count();
+
+Console.WriteLine($"9. feladat: {differentCities} különböző városban voltak mérkőzések");
+
+Console.ReadKey();
