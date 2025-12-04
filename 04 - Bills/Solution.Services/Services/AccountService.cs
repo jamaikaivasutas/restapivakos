@@ -7,6 +7,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
     private const int ROW_COUNT = 20;
     
     //Need to find out whats unfinished with the services
+    //Okay i have no idea what im doing!
 
     public async Task<ErrorOr<AccountModel>> CreateAsync(AccountModel model)
     {
@@ -24,7 +25,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
 
         return new AccountModel(account)
         {
-            Item = model.Item
+            Items = model.Items
         };
     }
 
