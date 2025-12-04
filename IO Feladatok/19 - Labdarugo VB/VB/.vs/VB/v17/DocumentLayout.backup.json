@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\19 - Labdarugo VB\\VB\\",
+  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\19 - Labdarugo VB\\VB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\19 - labdarugo vb\\vb\\vb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\io feladatok\\19 - labdarugo vb\\vb\\vb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|solutionrelative:vb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\19 - labdarugo vb\\vb\\vb\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\io feladatok\\19 - labdarugo vb\\vb\\vb\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{344F2F24-7E56-42ED-94E1-5E1F0B8FDB63}|VB\\VB.csproj|solutionrelative:vb\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Matches.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\19 - Labdarugo VB\\VB\\VB\\Matches.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\19 - Labdarugo VB\\VB\\VB\\Matches.cs",
               "RelativeDocumentMoniker": "VB\\Matches.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\19 - Labdarugo VB\\VB\\VB\\Matches.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\19 - Labdarugo VB\\VB\\VB\\Matches.cs",
               "RelativeToolTip": "VB\\Matches.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\19 - Labdarugo VB\\VB\\VB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\19 - Labdarugo VB\\VB\\VB\\Program.cs",
               "RelativeDocumentMoniker": "VB\\Program.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\19 - Labdarugo VB\\VB\\VB\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\19 - Labdarugo VB\\VB\\VB\\Program.cs",
               "RelativeToolTip": "VB\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwv0QAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T08:13:26.276Z",
               "EditorCaption": ""

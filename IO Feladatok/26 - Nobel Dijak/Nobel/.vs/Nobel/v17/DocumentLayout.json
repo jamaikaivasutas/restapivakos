@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\26 - Nobel Dijak\\Nobel\\",
+  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\26 - Nobel Dijak\\Nobel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\26 - nobel dijak\\nobel\\nobel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\io feladatok\\26 - nobel dijak\\nobel\\nobel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|solutionrelative:nobel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\17 - io feladatok\\26 - nobel dijak\\nobel\\nobel\\nobels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\io feladatok\\26 - nobel dijak\\nobel\\nobel\\nobels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C9F422-0AE8-4BEC-8F41-BA6069A99BF3}|Nobel\\Nobel.csproj|solutionrelative:nobel\\nobels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Nobels.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Nobels.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Nobels.cs",
               "RelativeDocumentMoniker": "Nobel\\Nobels.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Nobels.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Nobels.cs",
               "RelativeToolTip": "Nobel\\Nobels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T06:34:16.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T06:34:16.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Program.cs",
               "RelativeDocumentMoniker": "Nobel\\Program.cs",
-              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\17 - IO feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Program.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\IO Feladatok\\26 - Nobel Dijak\\Nobel\\Nobel\\Program.cs",
               "RelativeToolTip": "Nobel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T06:27:43.022Z",
               "EditorCaption": ""
