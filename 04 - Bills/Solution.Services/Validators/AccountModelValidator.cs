@@ -7,7 +7,7 @@ public class AccountModelValidator : BaseValidator<AccountModel>
     public static string AccNumProperty => nameof(AccountModel.AccountNumber);
     public static string DateOfCreationProperty => nameof(AccountModel.DateOfCreation);
     public static string SumOfItemPricesProperty => nameof(AccountModel.SumOfItemPrices);
-    public static string ItemProperty => nameof(AccountModel.Item);
+    
     public static string GlobalProperty => "Global";
 
     public AccountModelValidator(IHttpContextAccessor httpContextAccessor) : base(httpContextAccessor)
@@ -23,11 +23,6 @@ public class AccountModelValidator : BaseValidator<AccountModel>
             .GreaterThanOrEqualTo(0).When(x => x.SumOfItemPrices.HasValue)
             .WithMessage("Sum of item prices must be non-negative if provided.");
 
-        RuleFor(x => x.Item)
-            .NotNull().WithMessage("Item must not be null.");
-
-        RuleFor(x => x.Item.Id)
-            .GreaterThan(0).WithMessage("Item ID must be greater than 0!");
     }
 }
 

@@ -12,5 +12,5 @@ public class AccountEntity
     [Required]
     public int SumOfItemPrices { get; set; }
 
-    public ICollection<ItemEntity> Items { get; set; }
+    public virtual ICollection<ItemEntity> Items { get; set; }
 }

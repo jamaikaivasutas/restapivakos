@@ -7,6 +7,8 @@ builder.LoadAppSettingsVariables()
        .ConfigureDatabase()
        .ConfigureFluentValidation();
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
 app.UseHttpsRedirection();

@@ -82,3 +82,11 @@ IO Feladatok/06 - Roplabda/Roplabda/Roplabda/obj
 IO Feladatok/04 - Konyvek/Konyvek/Konyvek/obj
 17 - IO feladatok/37 - Hivasok/Calls/Calls/obj
 17 - IO feladatok/37 - Hivasok/Calls/Calls/bin
+Solution/Solution.Domain/bin
+Solution/Solution.Services/bin
+Solution/Solution.Shared/bin
+Solution/Solution.WebAPI/bin
+Solution/Solution.WebAPI/obj
+Solution/Solution.Shared/obj
+Solution/Solution.Services/obj
+Solution/Solution.Domain/obj

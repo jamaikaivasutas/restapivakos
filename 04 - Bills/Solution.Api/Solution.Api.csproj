@@ -6,6 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="connectionString.Development.json" />
+    <Content Remove="connectionString.Production.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="connectionString.Development.json" />
+    <None Include="connectionString.Production.json" />
+  </ItemGroup>
+
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
 		<PackageReference Include="ErrorOr" Version="2.0.1" />

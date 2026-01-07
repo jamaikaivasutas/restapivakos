@@ -8,7 +8,6 @@ public class AccountService(AppDbContext dbContext) : IAccountService
     
     //Need to find out whats unfinished with the services
     //Okay i have no idea what im doing!
-
     public async Task<ErrorOr<AccountModel>> CreateAsync(AccountModel model)
     {
         bool exists = await dbContext.Accounts.AnyAsync(x => x.AccountNumber == model.AccountNumber);
@@ -25,7 +24,7 @@ public class AccountService(AppDbContext dbContext) : IAccountService
 
         return new AccountModel(account)
         {
-            Items = model.Items
+          
         };
     }
 

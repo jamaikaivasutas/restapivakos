@@ -19,5 +19,7 @@ public class ItemEntity
 
     [ForeignKey("Account")]
     public string AccountId { get; set; }
-    public AccountEntity Account { get; set; }
+    public virtual AccountEntity Account { get; set; }
+
+
 }
