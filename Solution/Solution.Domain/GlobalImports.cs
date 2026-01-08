@@ -4,3 +4,5 @@ global using Microsoft.EntityFrameworkCore;
 global using Solution.Domain.Database.Builders;
 global using Solution.Domain.Database.Entities;
 global using System.Reflection;
+global using System.ComponentModel.DataAnnotations;
+global using System.Text.Json.Serialization;
