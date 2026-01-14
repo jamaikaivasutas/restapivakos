@@ -10,7 +10,7 @@ public static class DependencyInjectionConfiguration
             builder.Services.AddHttpClient();
 
             builder.Services.AddTransient<ISecurityService, SecurityService>();
-            builder.Services.AddTransient<IUserServices, UserService>();
+            builder.Services.AddTransient<IUserService, UserService>();
 
             return builder;
         }

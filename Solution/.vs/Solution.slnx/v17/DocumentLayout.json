@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5191C28C-1035-3A00-ACD6-FF1C0CEEDA13}|Solution.Shared\\Solution.Shared.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.shared\\extensions\\errororextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191C28C-1035-3A00-ACD6-FF1C0CEEDA13}|Solution.Shared\\Solution.Shared.csproj|solutionrelative:solution.shared\\extensions\\errororextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.services\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191C28C-1035-3A00-ACD6-FF1C0CEEDA13}|Solution.Shared\\Solution.Shared.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.shared\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191C28C-1035-3A00-ACD6-FF1C0CEEDA13}|Solution.Shared\\Solution.Shared.csproj|solutionrelative:solution.shared\\globalimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F10A7-7661-D6B1-5105-D89EED313806}|Solution.WebAPI\\Solution.WebAPI.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.webapi\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F10A7-7661-D6B1-5105-D89EED313806}|Solution.WebAPI\\Solution.WebAPI.csproj|solutionrelative:solution.webapi\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1duzale\\desktop\\restapivakos\\solution\\solution.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA63A1-840D-DAA4-56F6-D41F51470F24}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\GlobalImports.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\GlobalImports.cs",
+              "RelativeToolTip": "Solution.Services\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:41:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorOrExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Shared\\Extensions\\ErrorOrExtensions.cs",
+              "RelativeDocumentMoniker": "Solution.Shared\\Extensions\\ErrorOrExtensions.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Shared\\Extensions\\ErrorOrExtensions.cs",
+              "RelativeToolTip": "Solution.Shared\\Extensions\\ErrorOrExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:36:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalImports.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Shared\\GlobalImports.cs",
+              "RelativeDocumentMoniker": "Solution.Shared\\GlobalImports.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Shared\\GlobalImports.cs",
+              "RelativeToolTip": "Solution.Shared\\GlobalImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:36:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.WebAPI\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "Solution.WebAPI\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.WebAPI\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "Solution.WebAPI\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:28:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\User\\UserService.cs",
+              "RelativeToolTip": "Solution.Services\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:27:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\b1duzale\\Desktop\\restapivakos\\Solution\\Solution.Services\\User\\IUserService.cs",
+              "RelativeToolTip": "Solution.Services\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:27:20.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
