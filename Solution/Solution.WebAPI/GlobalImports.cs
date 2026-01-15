@@ -15,3 +15,6 @@ global using Solution.Services.User;
 global using Microsoft.AspNetCore.Authentication;
 global using Microsoft.AspNetCore.OpenApi;
 global using Microsoft.OpenApi;
+global using Solution.Domain.Models.Views;
+global using Solution.Domain.Models.Responses;
+global using System.ComponentModel;

@@ -46,7 +46,8 @@
               "RelativeToolTip": "Solution.Services\\GlobalImports.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:41:04.204Z"
+              "WhenOpened": "2026-01-14T06:41:04.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +59,8 @@
               "RelativeToolTip": "Solution.Shared\\Extensions\\ErrorOrExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:36:18.086Z"
+              "WhenOpened": "2026-01-14T06:36:18.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +72,8 @@
               "RelativeToolTip": "Solution.Shared\\GlobalImports.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:36:05.729Z"
+              "WhenOpened": "2026-01-14T06:36:05.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,7 +85,8 @@
               "RelativeToolTip": "Solution.WebAPI\\Controllers\\SecurityController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:28:01.702Z"
+              "WhenOpened": "2026-01-14T06:28:01.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +98,8 @@
               "RelativeToolTip": "Solution.Services\\User\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:27:22.104Z"
+              "WhenOpened": "2026-01-14T06:27:22.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +111,8 @@
               "RelativeToolTip": "Solution.Services\\User\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:27:20.624Z"
+              "WhenOpened": "2026-01-14T06:27:20.624Z",
+              "EditorCaption": ""
             }
           ]
         }

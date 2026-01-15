@@ -4,7 +4,7 @@ using Solution.WebAPI.Transformers;
 
 namespace Solution.WebAPI.Configurations;
 
-public static class ConfigureOpenAPI
+public static class ConfigureScalarOpenAPI
 {
     extension(IHostApplicationBuilder builder)
     {
@@ -39,7 +39,7 @@ public static class ConfigureOpenAPI
                        .ShowOperationId()
                        .ExpandAllTags()
                        .SortTagsAlphabetically()
-                       .SortOperationsByMethod()
+                       .SortOperationsByMethod();
             });
 
             return app;
